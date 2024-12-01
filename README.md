@@ -11,9 +11,13 @@ The program defines the speed limit and the number of kilometers per demerit poi
  The program prompts the user to enter their salary and benefits it calculates the payee using the KRA TAx Rates Calculate the Deductions such as NSSF and NHIF using the current NSSF and NHIF rates.It then deducts all deductions and determines the net salary.
 
  ### Prerequisites
-
+ Install  node js  on your machine 
+ Clone the repository (git clone git@github.com:......git <--the ssh code -->)
+ Run each file in js fiddle
  ### Author:Martha Mwangi
- 
+ If you encounter any issues with the code or need assistance, kindly reach out through:
+ email ..<marthawanguimwangi4@gmail.com> 
+ contact ..<+254745418529>
 
  # License
  MIT License
