@@ -8,7 +8,7 @@ const TAX_RATES = [
   const NHIF_RATES = [150, 300, 400, 500, 600, 750, 850, 900, 950, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700];
   const NSSF_RATE = 0.06;
   
-  //User is prompted to input salary and benefits since they all undergo deductions
+  //User is prompted to input salary and benefits since their total undergo deductions
   const basicSalary = parseFloat(prompt("Enter your basic salary : "));
   const benefits = parseFloat(prompt("Enter your benefits : "));
   
